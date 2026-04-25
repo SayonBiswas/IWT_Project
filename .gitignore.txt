@@ -1,0 +1,12 @@
+# Ignore Maven compiled output
+target/
+
+# Ignore Eclipse metadata
+.metadata/
+.project
+.classpath
+.settings/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
